@@ -30,7 +30,7 @@ The pdf file is the survey used. The dataset is too large for github, so please 
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](url placeholder).
+The main findings of the code can be found at the post available [here](https://medium.com/@yu90/are-developers-with-python-skills-in-switzerland-happy-and-well-paid-5a188ed04181).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
