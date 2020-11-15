@@ -13,7 +13,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-As a Python-focused developer starting a career in Switzerland with roughly 2 years of experience (through school & internships), I would like to use the StackOverflow 2019 dataset to answer some questions of personal interests.
+As a Python-focused developer starting a career in Switzerland, I would like to use the StackOverflow 2019 dataset to answer some questions of personal interests.
 
 ### This analysis aims to answer the following questions:
 - Career in Switzerland:
